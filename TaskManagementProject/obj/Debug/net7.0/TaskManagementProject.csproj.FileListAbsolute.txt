@@ -1,0 +1,14 @@
+D:\TaskManagementProject\TaskManagementProject\bin\Debug\net7.0\TaskManagementProject.exe
+D:\TaskManagementProject\TaskManagementProject\bin\Debug\net7.0\TaskManagementProject.deps.json
+D:\TaskManagementProject\TaskManagementProject\bin\Debug\net7.0\TaskManagementProject.runtimeconfig.json
+D:\TaskManagementProject\TaskManagementProject\bin\Debug\net7.0\TaskManagementProject.dll
+D:\TaskManagementProject\TaskManagementProject\bin\Debug\net7.0\TaskManagementProject.pdb
+D:\TaskManagementProject\TaskManagementProject\obj\Debug\net7.0\TaskManagementProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\TaskManagementProject\TaskManagementProject\obj\Debug\net7.0\TaskManagementProject.AssemblyInfoInputs.cache
+D:\TaskManagementProject\TaskManagementProject\obj\Debug\net7.0\TaskManagementProject.AssemblyInfo.cs
+D:\TaskManagementProject\TaskManagementProject\obj\Debug\net7.0\TaskManagementProject.csproj.CoreCompileInputs.cache
+D:\TaskManagementProject\TaskManagementProject\obj\Debug\net7.0\TaskManagementProject.dll
+D:\TaskManagementProject\TaskManagementProject\obj\Debug\net7.0\refint\TaskManagementProject.dll
+D:\TaskManagementProject\TaskManagementProject\obj\Debug\net7.0\TaskManagementProject.pdb
+D:\TaskManagementProject\TaskManagementProject\obj\Debug\net7.0\TaskManagementProject.genruntimeconfig.cache
+D:\TaskManagementProject\TaskManagementProject\obj\Debug\net7.0\ref\TaskManagementProject.dll

@@ -1,0 +1,28 @@
+H:\server\design patterns\TaskManagementProject\TaskManagementProject\obj\Debug\net8.0\TaskManagementProject.GeneratedMSBuildEditorConfig.editorconfig
+H:\server\design patterns\TaskManagementProject\TaskManagementProject\obj\Debug\net8.0\TaskManagementProject.AssemblyInfoInputs.cache
+H:\server\design patterns\TaskManagementProject\TaskManagementProject\obj\Debug\net8.0\TaskManagementProject.AssemblyInfo.cs
+H:\server\design patterns\TaskManagementProject\TaskManagementProject\obj\Debug\net8.0\TaskManagementProject.csproj.CoreCompileInputs.cache
+H:\server\design patterns\TaskManagementProject\TaskManagementProject\bin\Debug\net8.0\TaskManagementProject.exe
+H:\server\design patterns\TaskManagementProject\TaskManagementProject\bin\Debug\net8.0\TaskManagementProject.deps.json
+H:\server\design patterns\TaskManagementProject\TaskManagementProject\bin\Debug\net8.0\TaskManagementProject.runtimeconfig.json
+H:\server\design patterns\TaskManagementProject\TaskManagementProject\bin\Debug\net8.0\TaskManagementProject.dll
+H:\server\design patterns\TaskManagementProject\TaskManagementProject\bin\Debug\net8.0\TaskManagementProject.pdb
+H:\server\design patterns\TaskManagementProject\TaskManagementProject\obj\Debug\net8.0\TaskManagementProject.dll
+H:\server\design patterns\TaskManagementProject\TaskManagementProject\obj\Debug\net8.0\refint\TaskManagementProject.dll
+H:\server\design patterns\TaskManagementProject\TaskManagementProject\obj\Debug\net8.0\TaskManagementProject.pdb
+H:\server\design patterns\TaskManagementProject\TaskManagementProject\obj\Debug\net8.0\TaskManagementProject.genruntimeconfig.cache
+H:\server\design patterns\TaskManagementProject\TaskManagementProject\obj\Debug\net8.0\ref\TaskManagementProject.dll
+D:\TaskManagementProject\TaskManagementProject\bin\Debug\net8.0\TaskManagementProject.exe
+D:\TaskManagementProject\TaskManagementProject\bin\Debug\net8.0\TaskManagementProject.deps.json
+D:\TaskManagementProject\TaskManagementProject\bin\Debug\net8.0\TaskManagementProject.runtimeconfig.json
+D:\TaskManagementProject\TaskManagementProject\bin\Debug\net8.0\TaskManagementProject.dll
+D:\TaskManagementProject\TaskManagementProject\bin\Debug\net8.0\TaskManagementProject.pdb
+D:\TaskManagementProject\TaskManagementProject\obj\Debug\net8.0\TaskManagementProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\TaskManagementProject\TaskManagementProject\obj\Debug\net8.0\TaskManagementProject.AssemblyInfoInputs.cache
+D:\TaskManagementProject\TaskManagementProject\obj\Debug\net8.0\TaskManagementProject.AssemblyInfo.cs
+D:\TaskManagementProject\TaskManagementProject\obj\Debug\net8.0\TaskManagementProject.csproj.CoreCompileInputs.cache
+D:\TaskManagementProject\TaskManagementProject\obj\Debug\net8.0\TaskManagementProject.dll
+D:\TaskManagementProject\TaskManagementProject\obj\Debug\net8.0\refint\TaskManagementProject.dll
+D:\TaskManagementProject\TaskManagementProject\obj\Debug\net8.0\TaskManagementProject.pdb
+D:\TaskManagementProject\TaskManagementProject\obj\Debug\net8.0\TaskManagementProject.genruntimeconfig.cache
+D:\TaskManagementProject\TaskManagementProject\obj\Debug\net8.0\ref\TaskManagementProject.dll
